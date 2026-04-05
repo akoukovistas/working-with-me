@@ -70,4 +70,9 @@ I highly value direct and timely feedback, getting straight to the point, and be
 - I often think ahead and have multiple internal debates by the time you've finished talking. Please let me know if something doesn't make complete sense or if something needs more explanation.
 
 ## FAQ
-TBD - need people to ask me things first.
+### Considering the ratio of weight to firepower, which was the most effective WW2 vehicle?
+The **M18 Hellcat** tank destroyer is a strong contender for this title. It weighed only ~18 tons yet packed a high-velocity 76mm gun capable of penetrating most German armour of the era, and it remains the fastest armoured fighting vehicle the US Army ever fielded (~60 mph). That combination of speed, light weight, and hard-hitting firepower gave it an exceptional firepower-to-weight ratio compared to heavier contemporaries like the Sherman or the Tiger.
+
+If we broaden "vehicle" to include aircraft, the **de Havilland Mosquito** makes a compelling case: built largely of wood, it weighed around 11 tons fully loaded yet could carry a 4,000 lb bomb load (or four 20 mm cannons plus four .303 machine guns in the fighter variant) and outran most interceptors without needing a fighter escort. A phenomenal power-to-weight story.
+
+So: Hellcat on the ground, Mosquito in the air — both brilliant examples of doing more with less.
